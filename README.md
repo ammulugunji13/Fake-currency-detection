@@ -1,27 +1,30 @@
-💸 Fake Currency Detection using AI | 98.7% Accuracy | Major Project
+💸 Fake Currency Detection using AI
+python
+TensorFlow
+OpenCV
+Accuracy
+Status
+💙 1. PROBLEM STATEMENT
+In India, fake currency is a major issue. This project helps common people & shopkeepers to identify Real vs Fake notes instantly.
+💛 2. DATASET - Main Part
+https://drive.google.com/drive/folders/1EFYJxrenRZnJ5mOmNddzJkmUCD3nW2Tj?usp=sharing
+💜 Kaggle Datasets:
+🟣 Indian Notes - https://www.kaggle.com/datasets/sorinaoporta/indian-currency-note-classification/data
+🟢 Fake vs Real - https://www.kaggle.com/datasets/lava98/fake-and-real-currency-classification
+💚 3. KEY FEATURES - Kotha Ga🟢 ✅ Instant Detection in 2 Sec
+🔵 ✅ 98.7% High Accuracy
+🟡 ✅ Confidence Score Chupistundi
+🟠 ✅ 100, 200, 500, 2000 Notes Support
+🩷 ✅ Beautiful UI for Everyone
+❤️ 4. TECH STACK
 Python
 TensorFlow
-Accuracy
-An AI-powered system to detect fake Indian currency notes in under 2 seconds.Developed by: Anusha Gunji | B.Tech - AI & ML
-📁 Dataset Used
-Primary Dataset Link (Google Drive):
-https://drive.google.com/drive/folders/1EFYJxrenRZnJ5mOmNddzJkmUCD3nW2Tj?usp=sharing
-Kaggle Alternate Links:
-Indian Currency Classification - https://www.kaggle.com/datasets/sorinaoporta/indian-currency-note-classification/dataFake vs Real Classification - https://www.kaggle.com/datasets/lava98/fake-and-real-currency-classification
-✨ Key Features
-✅ Instant Detection in 2 sec
-✅ 98.7% Accuracy with EfficientNetB0 + CNN
-✅ Shows Confidence Score
-✅ Supports 100, 200, 500, 2000 notes
-🛠️ Tech 
-StackPython 
-TensorFlow
 Keras
-OpenCV 
 Streamlit
-🚀 How to Run
-Clone the repo, install requirements, and run:
-git clone https://github.com/ammulugunji13/Fake-currency-detection.git
-pip install -r requirements.txt
-python train.py
-streamlit run app.py
+🚀 5. HOW TO RUN:
+Step 1: git clone https://github.com/ammulugunji13/Fake-currency-detection.git
+Step 2: pip install -r requirements.txt
+Step 3: python train.py
+Step 4: streamlit run app.py
+📊 6. RESULT
+Our Model Accuracy is 98.7% which is higher than others!
