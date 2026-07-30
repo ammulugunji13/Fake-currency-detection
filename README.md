@@ -1,21 +1,25 @@
-💸 Fake Currency Detection using AI
+FAKE CURRENCY DETECTION 
 💙 PYTHON 
 🧡 TENSORFLOW 
-💚 ACCURACY 98.7%
-Dataset Link:
-https://drive.google.com/drive/folders/1EFYJxrenRZnJ5mOmNddzJkmUCD3nW2Tj?usp=sharing
-How to run
+💚 ACCURACY 98.7% 
+## 📂 DATASET USED:
+https://github.com/chandrikadeb7/Fake-Currency-Detection/tree/master/Dataset
+How to Run the Project:
 pip install -r requirements.txt
-🚀 Future Scope
-💵 Multi-Currency: 10,20,50,200,500 + Dollar, Euro support
-📱 Mobile App: Camera direct scan & voice output
-🏦 Bank Integration: ATM & Counting Machines 
-🎯 Goal: 99.9% Accuracy & Zero Fake Currency in India
-💻 Technology Stack
-🐍 PythonMain 
-🧠 TensorFlow 
-👁️ OpenCV
-🎨 Streamlit
-## 📊 🎯 Project Results & Output
-Our AI Model successfully tested with 200+ notes!
-### ✅ Accuracy Report
+🛠️ TECHNOLOGIES USED:
+Python
+TensorFlow
+OpenCV
+NumPy
+Pandas
+Matplotlib
+Streamlit
+✨ Features:
+✅ Detects Real and Fake Indian currency notes
+✅ Fast and accurate prediction
+✅ Deep Learning-based classification model
+✅ User-friendly Streamlit interface
+✅ Image preprocessing using OpenCV
+✅ Displays prediction with confidence score
+✅ Easy to use and deploy
+
