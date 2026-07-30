@@ -4,8 +4,7 @@ FAKE CURRENCY DETECTION
 
 DATASET USED
 
-(https://github.com/chandrikadeb7/Fake-Currency-Detection/tree/master/Dataset)
-
+(https://drive.google.com/drive/folders/1B2fQq9vN3kX8pL7mYtR4sWzA0cDeFgHiJ?usp=sharing)**
 
 
 
